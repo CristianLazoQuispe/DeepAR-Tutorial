@@ -1,5 +1,12 @@
 # DeepAR-Tutorial
 
+DeepAR
+Probabilistic forecasting with autoregressive recurrent networks
+
+
+DeepAR explanation 
+- https://docs.google.com/presentation/d/13B07JlMj3wpyLsIqrH7zyP0hQ92OHu152Pk7I6Gb1Ao/edit?usp=sharing
+
 ## Dataset
 
 International airline passengers
