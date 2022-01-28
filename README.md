@@ -4,22 +4,22 @@ DeepAR
 Probabilistic forecasting with autoregressive recurrent networks
 
 
-DeepAR explanation slides
+DeepAR explanation slides available on google drive:
 
-- https://docs.google.com/presentation/d/13B07JlMj3wpyLsIqrH7zyP0hQ92OHu152Pk7I6Gb1Ao/edit?usp=sharing
+ https://docs.google.com/presentation/d/13B07JlMj3wpyLsIqrH7zyP0hQ92OHu152Pk7I6Gb1Ao/edit?usp=sharing
 
 ## Dataset
 
-International airline passengers
-monthly totals in thousands
+International airline passengers dataset available on kaggle :
 
-
- - https://www.kaggle.com/andreazzini/international-airline-passengers
+ https://www.kaggle.com/andreazzini/international-airline-passengers
 
 
 ## Setup
 
-Run on terminal
+Using deepAR with own data
+ 
+   Run on terminal
 
-    $ sh setup.sh
+     $ sh setup.sh
 
